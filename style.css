@@ -52,7 +52,7 @@ html{
     position: absolute;
     top : -50%;
     right: 0%;
-    background: url('../workspace/IMG.kes.jpg') no-repeat center/cover;
+    background: url('IMG.kes.jpg') no-repeat center/cover;
     height: 690px;
     width: 1200px;
     z-index: -1;
